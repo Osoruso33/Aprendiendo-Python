@@ -29,8 +29,6 @@ primeraLista.reverse()
 # Index encuentra un elemento de la lista y devuelve su indice
 listaDeInt.index(6)
 
-print(primeraLista.find(2))
-
 print(primeraLista)
 print(listaDeInt)
 

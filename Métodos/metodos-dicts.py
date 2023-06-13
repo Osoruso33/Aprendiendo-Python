@@ -17,4 +17,4 @@ primerDiccionario.get("Nombre")
 # Pop elimina un elemento de el diccionario
 primerDiccionario.pop("Amigos")
 
-# Items itera el diccionario (lo recorre) pero ahora mismo no lo podemos hacer (se explica en bucles)
+# Items itera el diccionario (lo recorre) pero ahora mismo no lo podemos hacer (se explica en la carpeta bucles for archivo iterar-diccionarios.py)
